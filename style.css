@@ -3,10 +3,11 @@
     padding: 0;
 }
 .menu{
-    margin: 0px 50px;
+    margin: 0px 100px;
 }
 .title{
     text-align: center;
+    margin-top: 200px;
 }
 .menu .btn-container{
     margin: 10px auto;
@@ -16,12 +17,18 @@
     border-color: gold;
     border-radius: 5px;
     padding: 4px 10px;
-    margin: 0px 5px;
+    margin: 20px 5px;
 }
 .menu-items{
     display: grid;
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;
+}
+.menu .title .underline{
+    margin: 5px auto;
+    width: 60px;
+    height: 3px;
+    background-color: darkgoldenrod;
 }
 .menu-items .item{
     display: flex;
@@ -45,7 +52,7 @@
     color: darkgoldenrod;
 }
 .menu-items .item .info-underline{
-    margin: 5px 0px;
+    margin-top: 5px;
     height: 1px;
     background-color: #999;
 }

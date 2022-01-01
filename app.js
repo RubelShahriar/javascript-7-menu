@@ -11,72 +11,72 @@ const menu = [
         id: 2,
         title: 'parro apple',
         catagory: 'breakfast',
-        price: 15.99,
-        img: './images/download.jpeg',
+        price: 35.99,
+        img: './images/menu-2.jpeg',
         des: 'Find food text stock images in HD and millions of other royalty-free stock photos, illustrations and vectors in the Shutterstock collection.'
     },
     {
-        id: 1,
+        id: 3,
         title: 'orange pancakes',
         catagory: 'lunch',
-        price: 15.99,
-        img: './images/download.jpeg',
+        price: 25.99,
+        img: './images/menu-3.jpeg',
         des: 'Find food text stock images in HD and millions of other royalty-free stock photos, illustrations and vectors in the Shutterstock collection.'
     },
     {
-        id: 1,
+        id: 4,
         title: 'termerik pan',
         catagory: 'dinner',
-        price: 15.99,
-        img: './images/download.jpeg',
+        price: 49.99,
+        img: './images/menu-4.jpeg',
         des: 'Find food text stock images in HD and millions of other royalty-free stock photos, illustrations and vectors in the Shutterstock collection.'
     },
     {
-        id: 1,
+        id: 5,
         title: 'hotmilk cakes',
         catagory: 'breakfast',
-        price: 15.99,
-        img: './images/download.jpeg',
+        price: 39.99,
+        img: './images/menu-5.jpeg',
         des: 'Find food text stock images in HD and millions of other royalty-free stock photos, illustrations and vectors in the Shutterstock collection.'
     },
     {
-        id: 1,
+        id: 5,
         title: 'ifood panca',
         catagory: 'shakes',
-        price: 15.99,
-        img: './images/download.jpeg',
+        price: 26.99,
+        img: './images/menu-6.jpeg',
         des: 'Find food text stock images in HD and millions of other royalty-free stock photos, illustrations and vectors in the Shutterstock collection.'
     },
     {
-        id: 1,
+        id: 6,
         title: 'yellow fruits',
         catagory: 'dinner',
-        price: 15.99,
-        img: './images/download.jpeg',
+        price: 32.99,
+        img: './images/menu-7.jpeg',
         des: 'Find food text stock images in HD and millions of other royalty-free stock photos, illustrations and vectors in the Shutterstock collection.'
     },
     {
-        id: 1,
+        id: 7,
         title: 'ripe mango',
         catagory: 'shakes',
-        price: 15.99,
-        img: './images/download.jpeg',
+        price: 28.99,
+        img: './images/menu-8.jpeg',
         des: 'Find food text stock images in HD and millions of other royalty-free stock photos, illustrations and vectors in the Shutterstock collection.'
     },
     {
-        id: 1,
+        id: 8,
         title: 'souer olive',
         catagory: 'breakfast',
-        price: 15.99,
-        img: './images/download.jpeg',
+        price: 20.99,
+        img: './images/menu-4.jpeg',
         des: 'Find food text stock images in HD and millions of other royalty-free stock photos, illustrations and vectors in the Shutterstock collection.'
     },
     {
-        id: 1,
+        id: 9,
         title: 'milk food',
         catagory: 'shakes',
-        price: 15.99,
-        img: './images/download.jpeg',
+        price: 29.99,
+        img: './images/menu-9.jpeg',
         des: 'Find food text stock images in HD and millions of other royalty-free stock photos, illustrations and vectors in the Shutterstock collection.'
     }
 ]
