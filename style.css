@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    margin: 0px 50px;
+}
+.title{
+    text-align: center;
+}
+.menu .btn-container{
+    margin: 10px auto;
+    text-align:  center;
+}
+.menu .btn-container .filter-btn{
+    border-color: gold;
+    border-radius: 5px;
+    padding: 4px 10px;
+    margin: 0px 5px;
+}
+.menu-items{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 20px;
+}
+.menu-items .item{
+    display: flex;
+    background-color: #f1f3f4;
+    border-radius: 20px;
+}
+.menu-items .info{
+    padding: 0 10px;
+}
+.menu-items .item img{
+    width: 300px;
+    height: 150px;
+    border-radius: 15px;
+    border: 3px solid goldenrod;
+}
+.menu-items .item .flex{
+    display: flex;
+    justify-content: space-between;
+}
+.menu-items .item .price{
+    color: darkgoldenrod;
+}
+.menu-items .item .info-underline{
+    margin: 5px 0px;
+    height: 1px;
+    background-color: #999;
+}
+.menu-items .item p{
+    text-align: left;
+}
+.menu-items .item .para{
+    font-size: 18px;
+}
